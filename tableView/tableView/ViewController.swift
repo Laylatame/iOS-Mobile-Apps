@@ -14,7 +14,7 @@ class ViewController: UIViewController, UITableViewDelegate, UITableViewDataSour
     
     var lista = ["a", "b", "c", "d", "e"]
     var lista2 = [String]() //Crear una lista vacia
-    var lista3 : [String]! //Crea un objeto que apunta a una lista pero la lusta no existe falta crear el objeto lista
+    var lista3 : [String]! //Crea un objeto que apunta a una lista pero la lusta no existe falta crear el objeto list
 
     override func viewDidLoad() {
         super.viewDidLoad()
